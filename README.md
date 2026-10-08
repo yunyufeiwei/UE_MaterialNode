@@ -1,9 +1,9 @@
 <h1>生成截图显示</h1>
 
-<h2>Atmosphere</h2>
+<h2>Atmosphere</h2> 
 ![Atmosphere](ShootImage/Atmosphere.png)
 
-<h2>Blends</h2>
+<h2>Blends</h2> 
 ![Blends](ShootImage/Blends.png)
 
 <h2>Chromakeying</h2>
